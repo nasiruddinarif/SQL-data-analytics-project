@@ -45,7 +45,7 @@ Once we have **explored and understood** our datasets, the next step is to **ana
 
 ---
 
-##Conclusion
+## Conclusion
 This project provides a comprehensive and structured SQL toolkit for data analysis. It's designed to guide users, especially data analysts and BI professionals, through a complete analytical workflow. The project begins with exploratory data analysis (EDA) to help users understand a new dataset's structure, features, and constraints. This foundational step is critical for ensuring the subsequent analysis is accurate and relevant.
 
 After the initial exploration, the project shifts to advanced business analysis. It offers a series of SQL scripts for common analytical tasks like trend analysis, cumulative calculations, and segmentation. By following these steps, users can transform raw data into valuable business insights, such as identifying performance trends, understanding customer behavior, and preparing actionable reports. Ultimately, the project's goal is to empower users to efficiently and effectively extract meaningful insights from a relational database using a collection of pre-built, best-practice SQL queries.
